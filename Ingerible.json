@@ -1,0 +1,6 @@
+[{"idBebida":1,"Nombre":"Cerveza","Mililitro":330,"Grado":5},
+{"idBebida":2,"Nombre":"Vino","Mililitro":100,"Grado":12},
+{"idBebida":3,"Nombre":"Vermú","Mililitro":70,"Grado":17},
+{"idBebida":4,"Nombre":"Licor","Mililitro":45,"Grado":23},
+{"idBebida":5,"Nombre":"Brandy","Mililitro":45,"Grado":38},
+{"idBebida":6,"Nombre":"Combinado","Mililitro":50,"Grado":38}]
